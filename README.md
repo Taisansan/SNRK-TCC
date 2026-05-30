@@ -5,7 +5,7 @@ Sistema web REST desenvolvido para gerenciamento e vendas de tênis (sneakers), 
 Projeto acadêmico do curso de Análise e Desenvolvimento de Sistemas (ADS).
 
 ---
-O acompanhamento das tarefas, sprints e progresso do projeto Foram feitos através do 
+O acompanhamento das tarefas, sprints e progresso do projeto Foram feitos através do  https://github.com/users/Taisansan/projects/1
 <img width="1512" height="852" alt="image" src="https://github.com/user-attachments/assets/b574b416-cd10-407c-96a6-893d7c3fe692" />
 
 
@@ -116,9 +116,7 @@ Para documentação técnica completa, consulte:
 
 ## 📝 Licença
 
-Este projeto está licenciado sob a Licença ISC.
-
----
+----
 
 <div align="center">
 
