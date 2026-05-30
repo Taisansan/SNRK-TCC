@@ -6,6 +6,7 @@ Projeto acadêmico do curso de Análise e Desenvolvimento de Sistemas (ADS).
 
 ---
 O acompanhamento das tarefas, sprints e progresso do projeto Foram feitos através do 
+<img width="1512" height="852" alt="image" src="https://github.com/user-attachments/assets/b574b416-cd10-407c-96a6-893d7c3fe692" />
 
 
 ---
