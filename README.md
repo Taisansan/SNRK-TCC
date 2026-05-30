@@ -5,8 +5,7 @@ Sistema web REST desenvolvido para gerenciamento e vendas de tênis (sneakers), 
 Projeto acadêmico do curso de Análise e Desenvolvimento de Sistemas (ADS).
 
 ---
-O acompanhamento das tarefas, sprints e progresso do projeto Foram feitos através do https://github.com/users/KaueMata/projects/2/views/1?layout_template=board
-<img width="1660" height="856" alt="image" src="https://github.com/user-attachments/assets/3609a09c-5d26-4967-b268-904545c88009" />
+O acompanhamento das tarefas, sprints e progresso do projeto Foram feitos através do 
 
 
 ---
